@@ -2,6 +2,8 @@
 ### _Tkinter Desktop App • XGBoost Regression • Time-Series Forecasting_
 
 A fully interactive **desktop application** for crude oil price forecasting built using:
+![o](https://github.com/user-attachments/assets/ceba8f19-d707-490d-a974-755f27d0f0ac)
+![o2](https://github.com/user-attachments/assets/4f2bc1b6-00e8-402f-bb30-622295f6814e)
 
 - **Python 3**
 - **Tkinter** (GUI)
